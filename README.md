@@ -1,5 +1,4 @@
-Machine Learning 1
-First machine learning project, finished 5/17/2024.
+irst machine learning project, finished 5/17/2024.
 
 This project is divided into three general sections:
 - classification models (supervised learning)
