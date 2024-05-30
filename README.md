@@ -5,9 +5,9 @@ This project is divided into three general sections:
 - regression models (supervised learning)
 - unsupervised learning
 See README_notes.md for an overall project description, and the README.md in eanh section for specifics.
-- 
+  
 The project includes a number of changes and additions to the original video:
-- the code is rewritten in PyCharm (from Colab notebook) with the necessary changes for printing, plotting, and sequencing.
+- the code is rewritten in PyCharm (Colab notebook orignally) with the necessary changes for printing, plotting, and sequencing.
 - URLs to additional information (e.g. neural networks) is included
 - many additional comments are added
 - code for each section is separated into several .py files by function for clarity.
